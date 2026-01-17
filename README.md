@@ -21,7 +21,7 @@ Selecionar e implementar **3 serviços AWS** que permitam:
 
 ## Serviços AWS Utilizados
 
-### 1️AWS Cost Explorer & AWS Budgets
+### AWS Cost Explorer & AWS Budgets
 **Foco:** Monitoramento e controle de custos  
 
 - Visualização detalhada dos gastos por serviço, região e período  
